@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shzmehmet
+- 👋 Hi, I’m @mehdishz
 - 👀 I’m interested in CMS, Software Testing, JAVA, ... ;
 - 🌱 I’m currently learning JAVA & CMS & Software Testing;
 - 💞️ I’m looking to collaborate on ...
